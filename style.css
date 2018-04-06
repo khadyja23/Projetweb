@@ -119,9 +119,13 @@ nav li:hover .submenu{
 .marge{
 	margin: 60px;
 }
-.space{
+.space > img{
 	padding-left:  20px;
+	margin: 40px;
 }
 .centre{
 	margin: 20px;
+}
+.g{
+	text-align: left;
 }
